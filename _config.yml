@@ -1,14 +1,26 @@
 layout_spectrum: 1
-typography_spectrum: 0.6382979
+name: 'Malakinetics '
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.4234042
   brandStrength: 0.09191511
-  saturation: 0.7468085
-  rhythmicContrast: 0.6191489
+  lightness: 0.1468085
+  saturation: 0.8553191
+  rhythmicContrast: 0.5212766
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-name: 'Malakinetics '
+typography_spectrum: 0.6382979
