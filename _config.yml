@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.6382979
+color:
+  lightness: 0.4234042
+  brandStrength: 0.09191511
+  saturation: 0.7468085
+  rhythmicContrast: 0.6191489
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: 'Malakinetics '
