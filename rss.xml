@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Malakinetics]]></title>
+        <description><![CDATA[Malakinetics]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 29 Nov 2015 00:52:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Artist Statement]]></title>
+            <description><![CDATA[<article><h1>Artist Statement</h1><p>"The creative process, from concept to completion, is truly my passion. The
+experience of completing a project can only be described in one way: it is like
+turning myself inside out. Exposing my thoughts, beliefs, and emotions for the
+entire world to see. My creative process is split in half between concept and
+completion. The journey of how I get from one to the other is the “Magical
+Experience” for me as an artist in this medium. Guided only by my wild internal eye
+that when opened sees the world from inside out. Allowing me to articulate my
+thoughts, moods, and examine some of my belief systems. This vision also permits
+me to capture defining moments that are caught in a fleeting moment of time
+delicately pressed up against an eternity of moving life seconds. My need is to
+capture and preserve before extinction erases. I am a storyteller. My tools are
+photography, filmmaking, and the written word." - Malakhi Simmons </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9021013a-8eed-4f6b-8cec-8be72f70fa88.jpg"></article>]]></description>
+            <link>undefinedartist-statement/index.html</link>
+            <guid isPermaLink="false">a74f6be4-8cbd-4415-b903-52b51452ef78</guid>
+            <pubDate>Sun, 29 Nov 2015 00:52:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
