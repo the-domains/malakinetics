@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2015-11-29T00:16:47.624Z'
-dateModified: '2015-11-29T00:15:52.990Z'
-title: Biography of Roland Malakhi Simmons
+description: Biography
+datePublished: '2015-11-29T01:06:20.916Z'
+dateModified: '2015-11-29T01:06:14.728Z'
+title: 'Biography '
 author: []
+sourcePath: _posts/2015-11-29-biography-of-roland-malakhi-simmons.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-29-biography-of-roland-malakhi-simmons.md
-published: true
 url: biography-of-roland-malakhi-simmons/index.html
 _type: WebPage
 
