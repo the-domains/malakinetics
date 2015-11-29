@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Malakinetics]]></title>
         <description><![CDATA[Malakinetics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/malakinetics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 00:52:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 Nov 2015 01:08:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/malakinetics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Artist Statement]]></title>
             <description><![CDATA[<article><h1>Artist Statement</h1><p>"The creative process, from concept to completion, is truly my passion. The
@@ -20,9 +20,9 @@ me to capture defining moments that are caught in a fleeting moment of time
 delicately pressed up against an eternity of moving life seconds. My need is to
 capture and preserve before extinction erases. I am a storyteller. My tools are
 photography, filmmaking, and the written word." - Malakhi Simmons </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9021013a-8eed-4f6b-8cec-8be72f70fa88.jpg"></article>]]></description>
-            <link>undefinedartist-statement/index.html</link>
+            <link>https://thegrid.ai/malakinetics/artist-statement/index.html</link>
             <guid isPermaLink="false">a74f6be4-8cbd-4415-b903-52b51452ef78</guid>
-            <pubDate>Sun, 29 Nov 2015 00:52:18 GMT</pubDate>
+            <pubDate>Sun, 29 Nov 2015 01:08:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
