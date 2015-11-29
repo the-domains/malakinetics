@@ -1,16 +1,16 @@
 title: Malakinetics
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 layout_spectrum: 1
 favicon: null
 name: 'Malakinetics '
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -28,14 +28,14 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.7744681
+  brandStrength: 0.7319149
   lightness: 0.625
   saturation: 0.9375
   rhythmicContrast: 0.5
   brandColors:
-    - '#000000'
-    - '#fefefe'
-    - '#8a0037'
-    - '#323934'
-    - '#776f69'
+    - '#FFFFFF'
+    - '#020103'
+    - '#A4A3A4'
+    - '#302F31'
+    - '#787678'
 typography_spectrum: 0.71887
