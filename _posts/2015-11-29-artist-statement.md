@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-29T00:21:34.150Z'
-dateModified: '2015-11-29T00:21:02.620Z'
+datePublished: '2015-11-29T00:52:18.786Z'
+dateModified: '2015-11-29T00:49:43.339Z'
 title: Artist Statement
 author: []
+sourcePath: _posts/2015-11-29-artist-statement.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-29-artist-statement.md
-published: true
 url: artist-statement/index.html
-_type: WebPage
+_type: Article
 
 ---
 "The creative process, from concept to completion, is truly my passion. The
@@ -33,4 +33,5 @@ thoughts, moods, and examine some of my belief systems. This vision also permits
 me to capture defining moments that are caught in a fleeting moment of time
 delicately pressed up against an eternity of moving life seconds. My need is to
 capture and preserve before extinction erases. I am a storyteller. My tools are
-photography, filmmaking, and the written word." - Malakhi Simmons
+photography, filmmaking, and the written word." - **Malakhi Simmons **
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9021013a-8eed-4f6b-8cec-8be72f70fa88.jpg)
