@@ -30,8 +30,8 @@ collections:
 color:
   brandStrength: 0.7319149
   lightness: 0.3042553
-  saturation: 0.7702128
-  rhythmicContrast: 0
+  saturation: 0.5510638
+  rhythmicContrast: 0.5127659
   brandColors:
     - '#FFFFFF'
     - '#020103'
