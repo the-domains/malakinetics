@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-02T22:34:58.603Z'
-dateModified: '2015-12-02T22:28:57.005Z'
+datePublished: '2015-12-03T00:02:17.867Z'
+dateModified: '2015-12-02T23:51:53.992Z'
 title: Along The Path
 author: []
 sourcePath: _posts/2015-12-01-along-the-path.md
