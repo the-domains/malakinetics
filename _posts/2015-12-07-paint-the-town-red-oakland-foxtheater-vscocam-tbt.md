@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/vW5vsgIlXL/?taken-by=malakinetics'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-12-07T23:36:52.319Z'
+dateModified: '2015-12-07T23:23:52.069Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=853123145683588555'
     type: ios
@@ -19,17 +23,17 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/vW5vsgIlXL/?taken-by=malakinetics'
 title: 'Paint The Town Red #Oakland #FoxTheater #VSCOcam #TBT'
-datePublished: '2015-12-07T23:13:10.146Z'
-dateModified: '2015-12-07T22:54:59.256Z'
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
 sourcePath: _posts/2015-12-07-paint-the-town-red-oakland-foxtheater-vscocam-tbt.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Paint The Town Red &num;Oakland &num;FoxTheater &num;VSCOcam &num;TBT](https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/e15/10808553_315637745286966_521922834_n.jpg)
+![Paint The Town Red #Oakland #FoxTheater #VSCOcam #TBT](https://s3-us-west-2.amazonaws.com/the-grid-img/p/26c3bed6469b09d9aa8bd9e251eb23ad6e42e05f.jpg)
