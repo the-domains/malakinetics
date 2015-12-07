@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-03T00:02:17.867Z'
-dateModified: '2015-12-02T23:51:53.992Z'
+datePublished: '2015-12-07T22:15:16.834Z'
+dateModified: '2015-12-07T22:06:44.651Z'
 title: Along The Path
 author: []
 sourcePath: _posts/2015-12-01-along-the-path.md
@@ -36,4 +36,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ef1250d-b285-4fba-8c9a-cfb42cf15f92.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85a5dce8-af04-4993-92d7-dca5af8ba674.jpg)
 
-All Images Copyright Malakhi Simmons
+All Images Copyright 2015 Malakhi Simmons
