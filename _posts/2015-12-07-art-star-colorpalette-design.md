@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/UXDFqsIlVH/?taken-by=malakinetics'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-12-07T23:38:59.025Z'
+dateModified: '2015-12-07T23:38:51.938Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=366775478228505927'
     type: ios
@@ -19,17 +23,17 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/UXDFqsIlVH/?taken-by=malakinetics'
 title: '#art #star #colorpalette #design'
-datePublished: '2015-12-07T23:13:13.585Z'
-dateModified: '2015-12-07T22:49:01.465Z'
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
 sourcePath: _posts/2015-12-07-art-star-colorpalette-design.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![&num;art &num;star &num;colorpalette &num;design](https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11189892_1422901484683810_1040432759_n.jpg)
+![#art #star #colorpalette #design](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d8c3d3fd5270df3bf1c2f1b913e0ab8f79bbd9.jpg)
