@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-07T22:18:28.115Z'
-dateModified: '2015-12-07T22:18:02.651Z'
+datePublished: '2015-12-07T23:03:26.725Z'
+dateModified: '2015-12-07T23:03:09.251Z'
 title: Along The Path
 author: []
 sourcePath: _posts/2015-12-01-along-the-path.md
@@ -34,6 +34,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13778760-89ab-4cd9-9174-76879c49e522.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfeba1e2-c7e0-4550-ad57-3c5a6d64c29e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ef1250d-b285-4fba-8c9a-cfb42cf15f92.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bafdb892-3a1c-41d9-8478-9fa997751084.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85a5dce8-af04-4993-92d7-dca5af8ba674.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4245f222-9acf-472b-be17-0165aa25338e.jpg)
 
 All Images Copyright 2015 Malakhi Simmons
