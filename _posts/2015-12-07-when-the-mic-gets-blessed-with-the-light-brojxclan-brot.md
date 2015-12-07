@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-07T23:13:09.330Z'
-dateModified: '2015-12-07T22:57:16.196Z'
+datePublished: '2015-12-07T23:20:00.300Z'
+dateModified: '2015-12-07T23:19:30.690Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
@@ -36,4 +36,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![When the mic gets blessed with the light&period;&period;&period; &commat;brojxclan &num;BrotherJ &num;XClan &num;realhiphop](https://scontent.cdninstagram.com/hphotos-xpf1/t51.2885-15/e35/p480x480/12331366_1034318933255826_340334770_n.jpg)
+![When the mic gets blessed with the light... @brojxclan #BrotherJ #XClan #realhiphop](https://s3-us-west-2.amazonaws.com/the-grid-img/p/508e7740fbe8585b17aeab657dd795cc0895e3d3.jpg)
