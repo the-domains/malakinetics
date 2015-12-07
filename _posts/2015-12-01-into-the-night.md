@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-03T00:10:46.088Z'
-dateModified: '2015-12-03T00:10:44.398Z'
+datePublished: '2015-12-07T22:14:40.800Z'
+dateModified: '2015-12-07T22:14:31.025Z'
 title: Into The Night
 author: []
 sourcePath: _posts/2015-12-01-into-the-night.md
@@ -34,5 +34,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ae61dd2-1031-4c9e-8e34-3082bf235e7a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c122ac21-b787-487f-a12b-52644d8db399.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1548bf0-90f7-484b-aef0-d9fa388f9246.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ebaed17c1c269bd4cd8cb26d5352f79e67f4e39.jpg)
 
-All Images Copyright Malakhi Simmons
+All Images Copyright 2015 Malakhi Simmons
