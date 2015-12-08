@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/OHqhUxIlYV/?taken-by=malakinetics'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-12-08T22:14:45.541Z'
+dateModified: '2015-12-08T22:14:34.383Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=254358911965091349'
     type: ios
@@ -19,17 +23,17 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/OHqhUxIlYV/?taken-by=malakinetics'
-title: 'That moment you look down, and remember when your father wrote your name in the concrete. #throwbackthursday'
-datePublished: '2015-12-08T02:19:11.183Z'
-dateModified: '2015-12-08T01:51:53.855Z'
+title: 'That moment you look down, and remember when your father wrote your name in the concrete. '
 sourcePath: _posts/2015-12-07-that-moment-you-look-down-and-remember-when-your-father-wro.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![That moment you look down&comma; and remember when your father wrote your name in the concrete&period; &num;throwbackthursday](https://scontent.cdninstagram.com/hphotos-xpt1/t51.2885-15/e15/11176118_807253606030885_713908896_n.jpg)
+![That moment you look down, and remember when your father wrote your name in the concrete. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ca7c15843a8dd84905bcf629e7a4711dce935b5.jpg)
