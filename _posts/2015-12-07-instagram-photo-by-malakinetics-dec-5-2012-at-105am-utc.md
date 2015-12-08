@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/S1fW9UIlXg/?taken-by=malakinetics'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-12-08T22:49:29.860Z'
+dateModified: '2015-12-08T22:49:23.488Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=339315264042718688'
     type: ios
@@ -19,17 +23,17 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/S1fW9UIlXg/?taken-by=malakinetics'
-title: 'Instagram photo by @malakinetics * Dec 5, 2012 at 1:05am UTC'
-datePublished: '2015-12-08T02:27:46.670Z'
-dateModified: '2015-12-08T01:52:04.210Z'
+title: 'Instagram photo by @malakinetics * Dec 5, 2012'
 sourcePath: _posts/2015-12-07-instagram-photo-by-malakinetics-dec-5-2012-at-105am-utc.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Instagram photo by &commat;malakinetics &midast; Dec 5&comma; 2012 at 1&colon;05am UTC](https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/11176510_832522340116294_1427089009_n.jpg)
+![Instagram photo by @malakinetics * Dec 5, 2012 at 1:05am UTC](https://s3-us-west-2.amazonaws.com/the-grid-img/p/529067dbed86b1748ec5285e3871ba4e2d60bd10.jpg)
