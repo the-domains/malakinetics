@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-08T02:27:45.096Z'
-dateModified: '2015-12-08T01:51:53.445Z'
+datePublished: '2015-12-08T22:51:32.004Z'
+dateModified: '2015-12-08T22:51:24.054Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
@@ -24,16 +24,16 @@ app_links:
     app_name: Instagram
     package: com.instagram.android
 title: '#art #star #colorpalette #design'
+sourcePath: _posts/2015-12-07-art-star-colorpalette-design.md
+published: true
 authors: []
 publisher:
   name: Instagram
   domain: www.instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-sourcePath: _posts/2015-12-07-art-star-colorpalette-design.md
-published: true
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![#art #star #colorpalette #design](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d8c3d3fd5270df3bf1c2f1b913e0ab8f79bbd9.jpg)
+![#art #star #colorpalette #design](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9820aaa14d922e0f8070bdc5f4318ea2c343e07.jpg)
