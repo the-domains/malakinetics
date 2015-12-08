@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/PSsgwtolVF/?taken-by=malakinetics'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-12-08T22:29:12.699Z'
+dateModified: '2015-12-08T22:29:05.688Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=275478292597986629'
     type: ios
@@ -19,17 +23,17 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/PSsgwtolVF/?taken-by=malakinetics'
 title: At the carwash....
-datePublished: '2015-12-08T02:21:19.015Z'
-dateModified: '2015-12-08T01:51:56.213Z'
 sourcePath: _posts/2015-12-07-at-the-carwash.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![At the carwash&period;&period;&period;&period;](https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/11098351_758279207620136_1432262269_n.jpg)
+![At the carwash....](https://s3-us-west-2.amazonaws.com/the-grid-img/p/073e0b9e82d1a00802076d58d8b4ab9a468ae406.jpg)
