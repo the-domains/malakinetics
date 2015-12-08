@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/OKxFa3Ilcu/?taken-by=malakinetics'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-12-08T22:19:14.682Z'
+dateModified: '2015-12-08T22:18:53.684Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=255232205618566958'
     type: ios
@@ -19,17 +23,17 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/OKxFa3Ilcu/?taken-by=malakinetics'
 title: The Twin Soles of an Artist.
-datePublished: '2015-12-08T02:19:10.769Z'
-dateModified: '2015-12-08T01:51:54.326Z'
 sourcePath: _posts/2015-12-07-the-twin-soles-of-an-artist.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![The Twin Soles of an Artist&period;](https://scontent.cdninstagram.com/hphotos-xpf1/t51.2885-15/e15/11176522_418680778256957_855453535_n.jpg)
+![The Twin Soles of an Artist.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/96372bfcf46b38ff5759eb6e9cb386b736bfb14e.jpg)
