@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-08T22:02:53.526Z'
-dateModified: '2015-12-08T22:02:42.763Z'
+datePublished: '2015-12-08T22:03:26.392Z'
+dateModified: '2015-12-08T22:03:21.958Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
@@ -36,4 +36,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Instagram photo by @malakinetics * Jul 18, 2012 at 12:20am UTC](https://s3-us-west-2.amazonaws.com/the-grid-img/p/61f109206d7012a2071ea11e77a9b1a9094ec1cd.jpg)
+![Instagram photo by @malakinetics * Jul 18, 2012 ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/61f109206d7012a2071ea11e77a9b1a9094ec1cd.jpg)
