@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/OsA2yGIlfG/?taken-by=malakinetics'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-12-08T22:20:58.946Z'
+dateModified: '2015-12-08T22:20:52.833Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=264590242749765574'
     type: ios
@@ -19,17 +23,17 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/OsA2yGIlfG/?taken-by=malakinetics'
 title: '#abstract #lawofthirds #goldenmean #arch #architecture #design #art #LA'
-datePublished: '2015-12-08T02:19:10.408Z'
-dateModified: '2015-12-08T01:51:54.789Z'
 sourcePath: _posts/2015-12-07-abstract-lawofthirds-goldenmean-arch-architecture-desi.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![&num;abstract &num;lawofthirds &num;goldenmean &num;arch &num;architecture &num;design &num;art &num;LA](https://scontent.cdninstagram.com/hphotos-xta1/t51.2885-15/e15/11176172_1664583923770564_275349795_n.jpg)
+![#abstract #lawofthirds #goldenmean #arch #architecture #design #art #LA](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d647057742cab4ddef4586b07b2204160e34d98.jpg)
