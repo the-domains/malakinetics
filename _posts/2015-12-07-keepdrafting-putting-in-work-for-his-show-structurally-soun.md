@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/edapH3Ilf9/?taken-by=malakinetics'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-12-08T02:27:45.722Z'
+dateModified: '2015-12-08T01:52:03.777Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=548711904758093821'
     type: ios
@@ -19,17 +23,17 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/edapH3Ilf9/?taken-by=malakinetics'
 title: '@keepdrafting putting in work for his show Structurally Sound. On View Through October 5th, 2013. @ White Walls 886 Geary St, San Francisco, CA #throwbackthursday #art #keepdrafting #StructurallySound'
-datePublished: '2015-12-07T23:13:12.009Z'
-dateModified: '2015-12-07T22:52:33.035Z'
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
 sourcePath: _posts/2015-12-07-keepdrafting-putting-in-work-for-his-show-structurally-soun.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![&commat;keepdrafting putting in work for his show Structurally Sound&period; On View Through October 5th&comma; 2013&period; &commat; White Walls 886 Geary St&comma; San Francisco&comma; CA &num;throwbackthursday &num;art &num;keepdrafting &num;StructurallySound](https://scontent.cdninstagram.com/hphotos-xat1/t51.2885-15/e15/11373542_463101100522916_1427369425_n.jpg)
+![@keepdrafting putting in work for his show Structurally Sound. On View Through October 5th, 2013. @ White Walls 886 Geary St, San Francisco, CA #throwbackthursday #art #keepdrafting #StructurallySound](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4c9cdf523d7a33e5441671d9a34fb93facdce2d.jpg)
