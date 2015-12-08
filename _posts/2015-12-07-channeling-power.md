@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/NffnJJolfv/?taken-by=malakinetics'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-12-08T22:12:50.906Z'
+dateModified: '2015-12-08T22:11:39.650Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=243051934228043759'
     type: ios
@@ -19,17 +23,17 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/NffnJJolfv/?taken-by=malakinetics'
 title: Channeling Power
-datePublished: '2015-12-08T02:19:11.375Z'
-dateModified: '2015-12-08T01:51:53.109Z'
 sourcePath: _posts/2015-12-07-channeling-power.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Channeling Power](https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/e15/11123740_1591091577831566_1623941922_n.jpg)
+![Channeling Power](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7f4642df5a2f5796a188d5a72f7256465b3d263.jpg)
