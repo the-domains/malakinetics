@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/QJW5EOIlVj/?taken-by=malakinetics'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-12-08T22:32:56.690Z'
+dateModified: '2015-12-08T22:32:46.250Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=290864329507624291'
     type: ios
@@ -19,17 +23,17 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/QJW5EOIlVj/?taken-by=malakinetics'
 title: ...in the alley.
-datePublished: '2015-12-08T02:27:47.063Z'
-dateModified: '2015-12-08T01:51:58.255Z'
 sourcePath: _posts/2015-12-07-in-the-alley.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![&period;&period;&period;in the alley&period;](https://scontent.cdninstagram.com/hphotos-xtp1/t51.2885-15/e15/11190082_493233474159531_465849525_n.jpg)
+![...in the alley.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/426dd1d651418fc7827a8d9d8ae1dcdc60039f17.jpg)
