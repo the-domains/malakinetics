@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-08T02:27:44.842Z'
-dateModified: '2015-12-08T01:51:56.351Z'
+datePublished: '2015-12-08T22:56:38.451Z'
+dateModified: '2015-12-08T22:56:28.039Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
@@ -23,15 +23,15 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: '"If the bee disappeared off the face of the earth, man would only have four years left to live." ― Albert #Einstein #honor #bees #flowers #life #honey #Oshun'
+title: '"If the bee disappeared off the face of the earth, man would only have four years left to live." ― Albert Einstein '
+sourcePath: _posts/2015-12-07-if-the-bee-disappeared-off-the-face-of-the-earth-man-would.md
+published: true
 authors: []
 publisher:
   name: Instagram
   domain: www.instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-sourcePath: _posts/2015-12-07-if-the-bee-disappeared-off-the-face-of-the-earth-man-would.md
-published: true
 _type: Photograph
 _context: 'http://schema.org'
 
