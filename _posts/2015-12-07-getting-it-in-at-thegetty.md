@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/Rd9vlYolWL/?taken-by=malakinetics'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-12-08T22:41:59.326Z'
+dateModified: '2015-12-08T22:41:34.454Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=314679099780126091'
     type: ios
@@ -19,17 +23,17 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/Rd9vlYolWL/?taken-by=malakinetics'
 title: 'Getting it in at #theGetty'
-datePublished: '2015-12-08T02:27:44.135Z'
-dateModified: '2015-12-08T01:52:01.624Z'
 sourcePath: _posts/2015-12-07-getting-it-in-at-thegetty.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Getting it in at &num;theGetty](https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/e15/11199640_817316715021562_23082752_n.jpg)
+![Getting it in at #theGetty](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bb374d1a37b15abae46ba85ed92d82ae5070f2e.jpg)
