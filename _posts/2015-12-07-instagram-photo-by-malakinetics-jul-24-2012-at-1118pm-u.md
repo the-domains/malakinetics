@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-08T22:06:43.424Z'
-dateModified: '2015-12-08T22:06:30.700Z'
+datePublished: '2015-12-08T22:07:13.648Z'
+dateModified: '2015-12-08T22:07:09.543Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
@@ -23,7 +23,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: 'Instagram photo by @malakinetics * Jul 24, 2012 at 11:18pm UTC'
+title: 'Instagram photo by @malakinetics * Jul 24, 2012'
 sourcePath: _posts/2015-12-07-instagram-photo-by-malakinetics-jul-24-2012-at-1118pm-u.md
 published: true
 authors: []
