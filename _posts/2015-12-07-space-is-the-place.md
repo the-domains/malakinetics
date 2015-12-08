@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/P2TPYwIleF/?taken-by=malakinetics'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-12-08T22:32:10.526Z'
+dateModified: '2015-12-08T22:32:02.505Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=285500246637827973'
     type: ios
@@ -19,17 +23,17 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/P2TPYwIleF/?taken-by=malakinetics'
 title: 'Space is the place!'
-datePublished: '2015-12-08T02:21:19.127Z'
-dateModified: '2015-12-08T01:51:58.232Z'
 sourcePath: _posts/2015-12-07-space-is-the-place.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Space is the place&excl;](https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/11116762_336405343236445_1866627176_n.jpg)
+![Space is the place!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc30756b6e1f06b1a91e6948fc90a4ec53500731.jpg)
