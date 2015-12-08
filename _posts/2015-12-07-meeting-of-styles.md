@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-08T02:19:55.454Z'
-dateModified: '2015-12-08T01:52:02.583Z'
+datePublished: '2015-12-08T23:11:34.103Z'
+dateModified: '2015-12-08T21:59:53.520Z'
 title: 'Meeting of Styles '
 author: []
+sourcePath: _posts/2015-12-07-meeting-of-styles.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-07-meeting-of-styles.md
-published: true
 url: meeting-of-styles/index.html
 _type: Article
 
