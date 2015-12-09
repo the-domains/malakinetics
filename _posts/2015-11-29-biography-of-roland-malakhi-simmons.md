@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Biography
-datePublished: '2015-12-08T21:49:08.258Z'
-dateModified: '2015-12-08T21:49:02.329Z'
+datePublished: '2015-12-09T00:48:40.707Z'
+dateModified: '2015-12-09T00:48:33.142Z'
 title: 'Biography '
 author: []
 sourcePath: _posts/2015-11-29-biography-of-roland-malakhi-simmons.md
@@ -46,7 +46,7 @@ Soon after finishing his tenure with Alonzo, Malakhi went to work as a photojour
 Through a lifetime of dedication, observation, and action, Malakhi intends to use his knowledge and experience in fashioning a body of entertaining, yet educational work. In turn, he hopes his art can serve as a form of mentorship to other aspiring artists, just as the work of Carlton Moss, John A. Alonzo, his mother and father did for him. Today, he engages in various partnerships with non-profit organizations in order to bring about community awareness through a support of the arts. His ultimate vision is to leave lasting works that will inspire future generations to come.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0beb2826210b040680b97892e90e791dc293bead.png)
 
-[0]: http://www.johnsimmonsdp.com/
+[0]: http://www.theasc.com/magazine/jan06/closeup/index.html
 [1]: https://en.wikipedia.org/wiki/Carlton_Moss
 [2]: http://articles.dailypress.com/1994-03-06/news/9403060103_1_henrietta-marie-slave-ship-treasure-hunter-mel-fisher
 [3]: http://www.bremagazine.com/
