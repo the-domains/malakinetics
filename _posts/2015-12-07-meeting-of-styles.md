@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-08T23:11:34.103Z'
-dateModified: '2015-12-08T21:59:53.520Z'
+datePublished: '2015-12-09T00:20:58.996Z'
+dateModified: '2015-12-09T00:20:51.139Z'
 title: 'Meeting of Styles '
 author: []
 sourcePath: _posts/2015-12-07-meeting-of-styles.md
@@ -22,31 +22,31 @@ url: meeting-of-styles/index.html
 _type: Article
 
 ---
-### ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2db107a8-e49a-4585-90cb-a64688762f8e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8119e9f3-05bc-4265-81ca-292df6b15c58.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb60532a-9a53-48a5-9095-50299cacbe88.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17c43c48-359f-4f39-82be-80c99986a9b6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0064afa-bb59-4afe-978f-dc184801f371.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a01f7f25-f6a4-409c-a7d7-72f8ece731ef.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4fbb8be-f4b5-4a89-a9d0-b70bd98bd9a4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3cfc803-7e8d-4fdf-b5ff-9da3a8cc466a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee3215ae-ac27-4939-b013-47ccdcbcf668.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e42dc2f-2a9e-42c3-9265-d6485bb37f6b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed699543-693e-4e5d-9ecc-bdc7d7e7990f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40c572d8-bc25-4101-9d04-ead3cc5d6ef5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57328997-28be-4a87-b6d1-ad4d15ecf7bd.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5354864f-4990-495b-9d7c-e8d10e900a57.jpg)
+### ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a349711b37b149c67e28565d582fcae9699224a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/42f92b603706aa83ce2b177585b65de965032dc9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d84b2ffda529ff8ce9967237d8f9021c98bdebfe.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc15b670add77a3de68a28dd255dd9e40f995611.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f22600991716af2096534a2e67eecd7e95b0f87.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/750e9956122b15d7eef7343fed550effe51a484a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0cc161b15368b50581e4e7c00d7a67ebd924fec.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c59d12031f347755cf97395b56d6104ed56670e2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/796a9755ac79e3812f37d00e6897122afab54909.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0e7236dbe371a9903a937633f06859300148b93.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bef550c9f4f4374b92a7a54321d2109571db1f9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d668284e57e5a0f1c62c52210718a7264d4d47aa.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f41e9dd2cd7f33a324c9fdcb87a2d67383593c0c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8e7b551abeb87d756688c51adc2c94836fbc307.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c1f02e5-ae69-4286-9e08-18255e19617d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c01f6566-79bf-42c5-a83a-7b224feb3ebe.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b13ee507-000f-4b5b-9cdb-10ed86ba5e5c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63cc4f8f-3ce8-4c49-8047-ecad76a553c5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5124bb8c-58d4-4fb7-8b1c-47698d7256de.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b6ce6ba-604b-422f-b27b-b12f6a3fa7a9.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/238936e3-18e7-4d16-bac2-b999e6fa15f4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5111a894-aec3-4efd-829c-07f58f6a1b3f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb26da6f-dc9e-4ca5-9211-41946f8d6aeb.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e63a8572-07d1-4e1e-9d23-1254e5744e95.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/197e6a0b-4e22-48c2-b426-10158abdd78a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51952638-7129-44b0-a7be-ad57186c4591.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/482745dfd17dfccf2595f125ab7f0474a15e2330.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f00f7e0738f6582f3573121ad3ff014322a99bb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5e4bb9c1ab5c662b978727afc20d5ad4296e84d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe147570cceb2265955928f055b743e82bc8622f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/659371b38f2dbfe194831321da7bf011adc8d679.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf828edcd40512027bcb6a10e8d97bd65e23bafd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a750cba54c546ac488b04ebe12e1fa4c3738cce.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6543ac829fd4b5e12f593a66e814ad6bf0c8e57.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb2a545e4c95edfc8f0351e9b872053a71748e85.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c822eb70361dc323b061666b7460636c3116f4a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc2040e6aab8684298123bcb4ff034c2a101e591.jpg)
 
 All Images  Copyright 2015 Malakhi Simmons
