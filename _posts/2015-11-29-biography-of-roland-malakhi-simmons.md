@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Biography
-datePublished: '2015-12-09T00:48:40.707Z'
-dateModified: '2015-12-09T00:48:33.142Z'
+datePublished: '2016-01-15T00:10:05.337Z'
+dateModified: '2016-01-15T00:10:00.949Z'
 title: 'Biography '
 author: []
 sourcePath: _posts/2015-11-29-biography-of-roland-malakhi-simmons.md
