@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-08T21:59:10.896Z'
-dateModified: '2015-12-08T21:59:03.870Z'
+datePublished: '2016-01-20T21:24:02.095Z'
+dateModified: '2016-01-20T21:23:55.804Z'
 title: Into The Night
 author: []
 sourcePath: _posts/2015-12-01-into-the-night.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: into-the-night/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c679038-fd9d-4182-9c75-e937fc90d83a.jpg)
