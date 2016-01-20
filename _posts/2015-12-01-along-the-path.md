@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-09T00:58:57.638Z'
-dateModified: '2015-12-09T00:58:42.283Z'
+datePublished: '2016-01-20T21:14:22.331Z'
+dateModified: '2016-01-20T21:14:12.896Z'
 title: Along The Path
 author: []
 sourcePath: _posts/2015-12-01-along-the-path.md
@@ -32,7 +32,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc17b02c-ed8f-4c0a-ac65-342227d7f1ab.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6c4bad4-b3c4-43ba-ab89-25250ae355cd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96627b61-01d8-4aa1-ad0b-6225e34551a3.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfeba1e2-c7e0-4550-ad57-3c5a6d64c29e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/98f66ed92a40dd705dfc8fa3ca6cd50facb6bc26.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13778760-89ab-4cd9-9174-76879c49e522.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ef1250d-b285-4fba-8c9a-cfb42cf15f92.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bafdb892-3a1c-41d9-8478-9fa997751084.jpg)
