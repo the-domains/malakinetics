@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T20:00:23.544Z'
+datePublished: '2016-01-21T20:00:23.507Z'
 dateModified: '2016-01-21T19:59:26.425Z'
 title: 'Meeting of Styles '
 author: []
