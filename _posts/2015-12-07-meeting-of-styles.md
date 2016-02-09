@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T20:00:23.737Z'
-dateModified: '2016-01-21T19:59:26.425Z'
+datePublished: '2016-02-09T22:41:11.784Z'
+dateModified: '2016-02-09T22:41:07.109Z'
 title: 'Meeting of Styles '
 author: []
 sourcePath: _posts/2015-12-07-meeting-of-styles.md
@@ -22,8 +22,8 @@ url: meeting-of-styles/index.html
 _type: Article
 
 ---
-### ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a349711b37b149c67e28565d582fcae9699224a.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/42f92b603706aa83ce2b177585b65de965032dc9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a349711b37b149c67e28565d582fcae9699224a.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/64b3455e92b17fffa2846715d814531522a2aff7.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5899a1cf0a8de1b2e1d386a4859fb48d46b9c6fd.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4db32671a8024bb130f5492178914a2c02acc845.jpg)
