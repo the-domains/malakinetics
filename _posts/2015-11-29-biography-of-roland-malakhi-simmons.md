@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Biography
-datePublished: '2016-02-14T00:21:04.220Z'
-dateModified: '2016-02-14T00:20:55.770Z'
+datePublished: '2016-02-14T01:05:41.533Z'
+dateModified: '2016-02-14T01:05:33.934Z'
 title: 'Biography '
 author: []
 sourcePath: _posts/2015-11-29-biography-of-roland-malakhi-simmons.md
@@ -44,7 +44,7 @@ As Malakhi moved from college into professional life he was given the opportunit
 Soon after finishing his tenure with Alonzo, Malakhi went to work as a photojournalist, documenting his trips to Nepal, Brazil, and Cuba. The resulting works helped gain him recognition as both a photographer and columnist through the various exhibitions and publications that resulted. In addition, he produced numerous projects that helped shed light on the musical and spiritual African Diaspora in the Americas.
 
 Through a lifetime of dedication, observation, and action, Malakhi intends to use his knowledge and experience in fashioning a body of entertaining, yet educational work. In turn, he hopes his art can serve as a form of mentorship to other aspiring artists, just as the work of Carlton Moss, John A. Alonzo, his mother and father did for him. Today, he engages in various partnerships with non-profit organizations in order to bring about community awareness through a support of the arts. His ultimate vision is to leave lasting works that will inspire future generations to come.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd8830bc-7793-4573-b719-dba857805899.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6306b6fb88551553077ef3cf26ab7169ab7d3d4c.jpg)
 
 [0]: http://www.theasc.com/magazine/jan06/closeup/index.html
 [1]: https://en.wikipedia.org/wiki/Carlton_Moss
