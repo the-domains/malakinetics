@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T23:10:22.597Z'
-dateModified: '2016-02-09T23:10:16.080Z'
+datePublished: '2016-02-14T00:12:32.346Z'
+dateModified: '2016-02-14T00:12:28.385Z'
 title: Artist Statement
 author: []
 sourcePath: _posts/2016-01-20-artist-statement.md
@@ -34,4 +34,4 @@ me to capture defining moments that are caught in a fleeting moment of time
 delicately pressed up against an eternity of moving life seconds. My need is to
 capture and preserve before extinction erases. I am a storyteller. My tools are
 photography, filmmaking, and the written word." - Malakhi Simmons
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa866799a9b955ea813ccf80e9759bdd34619b5b.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93bb47e0-987b-4946-9ce1-47a67c923d64.jpg)
