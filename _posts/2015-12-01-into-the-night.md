@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-21T19:54:24.083Z'
-dateModified: '2016-01-21T19:54:15.806Z'
-title: Into The Night
-author: []
+description: All Images Copyright 2015 Malakhi Simmons
+datePublished: '2016-07-25T21:19:57.273Z'
+dateModified: '2016-07-25T21:19:56.225Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-01-into-the-night.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: into-the-night/index.html
 _type: WebPage
 
