@@ -5,15 +5,20 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Biography of Malakhi Simmons
-datePublished: '2016-07-18T22:10:52.449Z'
-dateModified: '2016-07-18T22:09:04.834Z'
+datePublished: '2016-07-25T20:11:06.070Z'
+dateModified: '2016-07-25T20:11:04.640Z'
 title: 'Malakhi''s First Job (pc: John Simmons ASC)'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2015-11-29-biography-of-roland-malakhi-simmons.md
 authors: []
-publisher: null
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+via: {}
 starred: true
 url: biography-of-roland-malakhi-simmons/index.html
 _type: Article
