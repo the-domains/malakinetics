@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Biography of Malakhi Simmons
-datePublished: '2016-07-25T20:51:12.288Z'
-dateModified: '2016-07-25T20:50:47.002Z'
+datePublished: '2016-07-25T22:38:11.692Z'
+dateModified: '2016-07-25T22:38:10.460Z'
 title: ''
 author:
   - name: ''
@@ -15,12 +15,12 @@ sourcePath: _posts/2015-11-29-biography-of-roland-malakhi-simmons.md
 via: {}
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: true
-url: biography-of-roland-malakhi-simmons/index.html
+url: biography/index.html
 _type: Article
 
 ---
