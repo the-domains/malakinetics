@@ -19,8 +19,8 @@ description: >-
   continuing to work under the tutelage of his father and Moss, Malakhi
   inherited a passion for educational films and was inspired early on to create
   works rich in substance and purpose.
-datePublished: '2016-07-26T03:58:50.741Z'
-dateModified: '2016-07-26T03:58:29.917Z'
+datePublished: '2016-07-26T03:59:27.148Z'
+dateModified: '2016-07-26T03:59:15.422Z'
 author:
   - name: ''
     url: ''
@@ -46,9 +46,6 @@ This quest led him to pursue work on numerous film projects such as the document
 As Malakhi moved from college into professional life he was given the opportunity to apprentice under the eye of [John A. Alonzo, A.S.C.][4] On a professional level, Alonzo was able to help Malakhi strengthen and sharpen his technical skills. On a more personal level, Alonzo helped Malakhi to not only explore his role as an artist, but as a person of color in the film industry. The personal conversations shared with Alonzo reminded him of the lessons he received as a young man, while working with his father and Moss.  
 Soon after finishing his tenure with Alonzo, Malakhi went to work as a photojournalist, documenting his trips to Nepal, Brazil, and Cuba. The resulting works helped gain him recognition as both a photographer and columnist through the various exhibitions and publications that resulted. In addition, he produced numerous projects that helped shed light on the musical and spiritual African Diaspora in the Americas.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b55bff6-b5a7-4017-8d53-1a84e08eeb8a.jpg)
-
-  
-
 
 [0]: http://www.theasc.com/magazine/jan06/closeup/index.html "John Simmons A.S.C."
 [1]: https://en.m.wikipedia.org/wiki/Carlton_Moss
