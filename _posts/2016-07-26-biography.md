@@ -1,11 +1,11 @@
 ---
-author: []
-dateModified: '2016-07-26T03:49:39.717Z'
-via: {}
-title: 'Biography '
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4e36be0-66e7-4d95-ac25-f1e4ce7409bc.jpg
-publisher: {}
+inLanguage: null
+keywords: []
 description: >-
   Malakhi Simmons was born in Nashville, Tenn. in 1972. The son of two artists
   who sought to expose him to the world of creation: his first toys were cameras
@@ -19,12 +19,21 @@ description: >-
   continuing to work under the tutelage of his father and Moss, Malakhi
   inherited a passion for educational films and was inspired early on to create
   works rich in substance and purpose.
-datePublished: '2016-07-26T03:51:13.125Z'
-starred: false
+datePublished: '2016-07-26T03:58:50.741Z'
+dateModified: '2016-07-26T03:58:29.917Z'
+author:
+  - name: ''
+    url: ''
+via: {}
+title: 'Biography '
 sourcePath: _posts/2016-07-26-biography.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
+starred: false
 _type: MediaObject
 
 ---
@@ -37,12 +46,9 @@ This quest led him to pursue work on numerous film projects such as the document
 As Malakhi moved from college into professional life he was given the opportunity to apprentice under the eye of [John A. Alonzo, A.S.C.][4] On a professional level, Alonzo was able to help Malakhi strengthen and sharpen his technical skills. On a more personal level, Alonzo helped Malakhi to not only explore his role as an artist, but as a person of color in the film industry. The personal conversations shared with Alonzo reminded him of the lessons he received as a young man, while working with his father and Moss.  
 Soon after finishing his tenure with Alonzo, Malakhi went to work as a photojournalist, documenting his trips to Nepal, Brazil, and Cuba. The resulting works helped gain him recognition as both a photographer and columnist through the various exhibitions and publications that resulted. In addition, he produced numerous projects that helped shed light on the musical and spiritual African Diaspora in the Americas.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b55bff6-b5a7-4017-8d53-1a84e08eeb8a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4e36be0-66e7-4d95-ac25-f1e4ce7409bc.jpg)
 
-This quest led him to pursue work on numerous film projects such as the documentary of the slave ship [Henrietta Marie][2] for which he served as the underwater camera operator while an undergraduate at Hampton University. During his matriculation at Hampton, the seemingly vast separation between his selected major, Biology Premed, and his more creative passion for filmmaking, was intriguing to those who observed him. When asked how he had chosen his major, he claimed, "Art imitates life, so I studied life!" As it turns out, Malakhi's inquisitiveness only helped to broaden his scope as an artist. Along with film, he also applied his skills to the field of journalism, becoming a columnist for [BRE (Black Radio Exclusive) magazine][3], where he developed as a photographer and writer.  
-As Malakhi moved from college into professional life he was given the opportunity to apprentice under the eye of [John A. Alonzo, A.S.C.][4] On a professional level, Alonzo was able to help Malakhi strengthen and sharpen his technical skills. On a more personal level, Alonzo helped Malakhi to not only explore his role as an artist, but as a person of color in the film industry. The personal conversations shared with Alonzo reminded him of the lessons he received as a young man, while working with his father and Moss.  
-Soon after finishing his tenure with Alonzo, Malakhi went to work as a photojournalist, documenting his trips to Nepal, Brazil, and Cuba. The resulting works helped gain him recognition as both a photographer and columnist through the various exhibitions and publications that resulted. In addition, he produced numerous projects that helped shed light on the musical and spiritual African Diaspora in the Americas.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b55bff6-b5a7-4017-8d53-1a84e08eeb8a.jpg)
+  
+
 
 [0]: http://www.theasc.com/magazine/jan06/closeup/index.html "John Simmons A.S.C."
 [1]: https://en.m.wikipedia.org/wiki/Carlton_Moss
