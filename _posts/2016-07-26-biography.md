@@ -1,9 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4e36be0-66e7-4d95-ac25-f1e4ce7409bc.jpg
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -18,8 +16,8 @@ description: >-
   years his various duties on set would grow. While continuing to work under the
   tutelage of his father and Moss, Malakhi inherited a passion for educational
   films and was inspired early on to create works rich in substance and purpose.
-datePublished: '2016-07-26T04:06:13.847Z'
-dateModified: '2016-07-26T04:05:47.819Z'
+datePublished: '2016-07-26T04:08:47.724Z'
+dateModified: '2016-07-26T04:08:38.765Z'
 author:
   - name: ''
     url: ''
@@ -33,7 +31,8 @@ publisher:
   url: ''
   favicon: null
 starred: false
-_type: MediaObject
+url: biography/index.html
+_type: WebPage
 
 ---
 # Biography 
