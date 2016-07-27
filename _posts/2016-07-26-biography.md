@@ -16,8 +16,8 @@ description: >-
   years his various duties on set would grow. While continuing to work under the
   tutelage of his father and Moss, Malakhi inherited a passion for educational
   films and was inspired early on to create works rich in substance and purpose.
-datePublished: '2016-07-27T18:16:05.907Z'
-dateModified: '2016-07-27T18:16:05.646Z'
+datePublished: '2016-07-27T18:16:24.634Z'
+dateModified: '2016-07-27T18:16:24.507Z'
 author:
   - name: ''
     url: ''
