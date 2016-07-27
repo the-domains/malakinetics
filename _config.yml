@@ -1,8 +1,30 @@
-name: 'Malakinetics '
-favicon: null
-layout_spectrum: 0.51887
 typography_spectrum: 0.7234042
-title: Malakinetics
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#020103'
+    - '#A4A3A4'
+    - '#302F31'
+    - '#787678'
+  brandStrength: 0.9375
+  lightness: 0.1875
+  saturation: 0.75
+  rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.51887
+analytics:
+  google: UA-71138804-1
+  facebook: null
+  twitter: null
+name: 'Malakinetics '
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       navigable: true
@@ -15,27 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-71138804-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#FFFFFF'
-    - '#020103'
-    - '#A4A3A4'
-    - '#302F31'
-    - '#787678'
-  brandStrength: 0.9375
-  lightness: 0.1875
-  saturation: 0.75
-  rhythmicContrast: 0.25
+title: Malakinetics
 purpose: []
