@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.instagram.com/p/-7uOGhIlf5/?taken-by=malakinetics'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-29T22:05:45.539Z'
-dateModified: '2016-07-29T22:05:33.325Z'
+datePublished: '2016-07-29T22:05:58.814Z'
+dateModified: '2016-07-29T22:05:47.204Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
@@ -26,6 +26,7 @@ title: >-
   When the mic gets blessed with the light... @brojxclan #BrotherJ #XClan
   #realhiphop
 sourcePath: _posts/2015-12-07-when-the-mic-gets-blessed-with-the-light-brojxclan-brot.md
+via: {}
 authors: []
 publisher:
   name: Instagram
@@ -33,7 +34,6 @@ publisher:
   url: 'https://www.instagram.com'
   favicon: >-
     https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico
-via: {}
 starred: false
 _type: Photograph
 _context: 'http://schema.org'
