@@ -4,11 +4,10 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.instagram.com/p/9emqM5IlV7/?taken-by=malakinetics'
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-08T02:34:42.482Z'
-dateModified: '2015-12-08T01:51:52.074Z'
+datePublished: '2016-08-01T19:27:57.255Z'
+dateModified: '2016-08-01T19:23:57.339Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
@@ -23,15 +22,20 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: 'Some people just have this whole thing figured out! #ostrich #steelhorse #LA #love #couplesofinstagram #vscocam'
+title: >-
+  Some people just have this whole thing figured out! #ostrich #steelhorse #LA
+  #love #couplesofinstagram #vscocam
+sourcePath: >-
+  _posts/2015-12-07-some-people-just-have-this-whole-thing-figured-out-ostrich.md
 authors: []
 publisher:
   name: Instagram
   domain: www.instagram.com
   url: 'https://www.instagram.com'
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-sourcePath: _posts/2015-12-07-some-people-just-have-this-whole-thing-figured-out-ostrich.md
-published: true
+  favicon: >-
+    https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico
+via: {}
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
