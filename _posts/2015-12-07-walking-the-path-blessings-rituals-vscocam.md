@@ -4,11 +4,10 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.instagram.com/p/8_gVsJolZy/?taken-by=malakinetics'
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-08T02:34:42.754Z'
-dateModified: '2015-12-08T01:51:51.938Z'
+datePublished: '2016-08-01T19:28:32.387Z'
+dateModified: '2016-08-01T19:28:24.394Z'
 author:
   - name: malakinetics
     url: 'https://www.instagram.com/malakinetics'
@@ -24,14 +23,16 @@ app_links:
     app_name: Instagram
     package: com.instagram.android
 title: 'Walking the path. #Blessings #Rituals #vscocam'
+sourcePath: _posts/2015-12-07-walking-the-path-blessings-rituals-vscocam.md
 authors: []
 publisher:
   name: Instagram
   domain: www.instagram.com
   url: 'https://www.instagram.com'
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico'
-sourcePath: _posts/2015-12-07-walking-the-path-blessings-rituals-vscocam.md
-published: true
+  favicon: >-
+    https://instagramstatic-a.akamaihd.net/bluebar/e20554e/images/ico/favicon.ico
+via: {}
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
