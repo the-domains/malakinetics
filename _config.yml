@@ -30,14 +30,14 @@ navigation:
   - name: Cuba
     id: f193cfea-94ef-4763-bb7b-6188d45ee9cd
     type: content
+  - name: 'Meeting of Styles '
+    id: 53813503-2f1c-4b17-9884-88f8a048133e
+    type: content
   - name: Artist Statement
     id: 583a540f-5586-42f4-b5df-2daf1ea4f2ec
     type: content
   - name: 'Biography '
     id: afcf5e67-d315-4052-8d8d-db613a794197
-    type: content
-  - name: 'Meeting of Styles '
-    id: 53813503-2f1c-4b17-9884-88f8a048133e
     type: content
 favicon: null
 collections:
