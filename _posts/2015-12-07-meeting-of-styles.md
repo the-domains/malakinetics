@@ -3,21 +3,23 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T22:41:11.784Z'
-dateModified: '2016-02-09T22:41:07.109Z'
-title: 'Meeting of Styles '
-author: []
+datePublished: '2016-08-09T23:17:15.462Z'
+dateModified: '2016-08-09T23:17:14.447Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-07-meeting-of-styles.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: meeting-of-styles/index.html
 _type: Article
 
