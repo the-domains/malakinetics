@@ -5,19 +5,15 @@ inNav: true
 inLanguage: null
 keywords: []
 description: All Images Copyright 2015 Malakhi Simmons
-datePublished: '2016-07-25T21:19:57.273Z'
-dateModified: '2016-07-25T21:19:56.225Z'
+datePublished: '2016-08-09T23:19:32.175Z'
+dateModified: '2016-08-09T23:19:29.976Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2015-12-01-into-the-night.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 via: {}
 starred: false
 url: into-the-night/index.html
