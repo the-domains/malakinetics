@@ -3,21 +3,23 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-21T20:00:09.809Z'
-dateModified: '2016-01-21T20:00:05.846Z'
-title: Along The Path
-author: []
+description: All Images Copyright 2015 Malakhi Simmons
+datePublished: '2016-08-09T23:18:17.542Z'
+dateModified: '2016-08-09T23:18:15.905Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-01-along-the-path.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: along-the-path/index.html
 _type: Article
 
