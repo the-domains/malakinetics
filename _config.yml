@@ -27,6 +27,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: Along The Path
+    id: efaefcc9-2d8b-4127-b47e-5653093020c4
+    type: content
   - name: Cuba
     id: f193cfea-94ef-4763-bb7b-6188d45ee9cd
     type: content
@@ -38,9 +41,6 @@ navigation:
     type: content
   - name: 'Biography '
     id: afcf5e67-d315-4052-8d8d-db613a794197
-    type: content
-  - name: Along The Path
-    id: efaefcc9-2d8b-4127-b47e-5653093020c4
     type: content
 favicon: null
 collections:
