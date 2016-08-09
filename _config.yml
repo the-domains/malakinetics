@@ -26,25 +26,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Along The Path
-    id: efaefcc9-2d8b-4127-b47e-5653093020c4
-    type: content
-  - name: Cuba
-    id: f193cfea-94ef-4763-bb7b-6188d45ee9cd
-    type: content
-  - name: 'Meeting of Styles '
-    id: 53813503-2f1c-4b17-9884-88f8a048133e
-    type: content
-  - name: Into The Night
-    id: 58f7c843-6969-4d25-861f-1e0d052c2a97
-    type: content
-  - name: Artist Statement
-    id: 583a540f-5586-42f4-b5df-2daf1ea4f2ec
-    type: content
-  - name: 'Biography '
-    id: afcf5e67-d315-4052-8d8d-db613a794197
-    type: content
 favicon: null
 collections:
   - index:
