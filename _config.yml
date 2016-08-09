@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Twitter
+    url: twitter.com/malakinetics
+    type: external
 favicon: null
 collections:
   - index:
