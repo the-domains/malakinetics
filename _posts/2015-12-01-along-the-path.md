@@ -5,19 +5,15 @@ inNav: true
 inLanguage: null
 keywords: []
 description: All Images Copyright 2015 Malakhi Simmons
-datePublished: '2016-08-09T23:18:17.542Z'
-dateModified: '2016-08-09T23:18:15.905Z'
+datePublished: '2016-08-10T00:13:39.188Z'
+dateModified: '2016-08-10T00:13:37.414Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2015-12-01-along-the-path.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 via: {}
 starred: false
 url: along-the-path/index.html
