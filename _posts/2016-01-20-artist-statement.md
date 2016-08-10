@@ -33,17 +33,15 @@ description: >
   are
 
   photography, filmmaking, and the written word." - Malakhi Simmons
-datePublished: '2016-08-09T23:14:36.561Z'
-dateModified: '2016-08-09T23:14:35.866Z'
+datePublished: '2016-08-10T00:12:30.275Z'
+dateModified: '2016-08-10T00:12:29.651Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-01-20-artist-statement.md
 authors: []
-publisher:
-  name: ''
-  url: ''
+publisher: {}
 via: {}
 starred: false
 url: artist-statement/index.html
