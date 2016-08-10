@@ -27,9 +27,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Biography
-    id: 9e51eb43-d47f-44e8-9373-5d33733d8fba
-    type: content
   - name: Along The Path
     id: efaefcc9-2d8b-4127-b47e-5653093020c4
     type: content
@@ -44,6 +41,9 @@ navigation:
     type: content
   - name: Artist Statement
     id: 583a540f-5586-42f4-b5df-2daf1ea4f2ec
+    type: content
+  - name: Biography
+    id: 9e51eb43-d47f-44e8-9373-5d33733d8fba
     type: content
 favicon: null
 collections:
