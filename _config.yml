@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Artist Statement
+    id: 583a540f-5586-42f4-b5df-2daf1ea4f2ec
+    type: content
 favicon: null
 collections:
   - index:
