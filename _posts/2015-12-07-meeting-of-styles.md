@@ -5,19 +5,15 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-09T23:17:15.462Z'
-dateModified: '2016-08-09T23:17:14.447Z'
+datePublished: '2016-08-10T00:15:11.171Z'
+dateModified: '2016-08-10T00:15:06.230Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2015-12-07-meeting-of-styles.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 via: {}
 starred: false
 url: meeting-of-styles/index.html
