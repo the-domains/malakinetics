@@ -43,6 +43,9 @@ navigation:
   - name: Into The Night
     id: 58f7c843-6969-4d25-861f-1e0d052c2a97
     type: content
+  - name: 'Meeting of Styles '
+    id: 53813503-2f1c-4b17-9884-88f8a048133e
+    type: content
 favicon: null
 collections:
   - index:
