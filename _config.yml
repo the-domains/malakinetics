@@ -34,6 +34,9 @@ navigation:
   - name: Biography
     id: e544ac6b-a2d0-4fd7-a37b-e37bdb800818
     type: content
+  - name: Contact
+    id: d2590871-e9c8-413b-a01c-f9014ef9a604
+    type: content
   - name: Along The Path
     id: efaefcc9-2d8b-4127-b47e-5653093020c4
     type: content
@@ -45,9 +48,6 @@ navigation:
     type: content
   - name: 'Meeting of Styles '
     id: 53813503-2f1c-4b17-9884-88f8a048133e
-    type: content
-  - name: Contact
-    id: d2590871-e9c8-413b-a01c-f9014ef9a604
     type: content
 favicon: null
 collections:
