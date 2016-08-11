@@ -40,6 +40,9 @@ navigation:
   - name: Cuba
     id: f193cfea-94ef-4763-bb7b-6188d45ee9cd
     type: content
+  - name: Into The Night
+    id: 58f7c843-6969-4d25-861f-1e0d052c2a97
+    type: content
 favicon: null
 collections:
   - index:
