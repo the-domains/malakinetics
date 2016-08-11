@@ -1,22 +1,18 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: 'Contact: malakinetics.info@gmail.com'
-datePublished: '2016-08-11T22:12:29.633Z'
-dateModified: '2016-08-11T22:12:12.503Z'
+datePublished: '2016-08-11T22:13:35.334Z'
 sourcePath: _posts/2016-08-11-contact-malakineticsinfogmailcom.md
+inFeed: false
+authors: []
+hasPage: true
+keywords: []
 author: []
 via: {}
+dateModified: '2016-08-11T22:13:34.205Z'
 title: Contact
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+description: 'Contact: malakinetics.info@gmail.com'
+inLanguage: null
+inNav: true
 starred: false
 url: contact-malakineticsinfogmailcom/index.html
 _type: WebPage
