@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T18:39:19.631Z'
+datePublished: '2016-08-11T18:47:11.883Z'
 sourcePath: _posts/2015-11-29-biography-of-roland-malakhi-simmons.md
 inFeed: false
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-11T18:39:18.561Z'
+dateModified: '2016-08-11T18:47:11.266Z'
 title: Biography
 publisher: {}
 description: >-
