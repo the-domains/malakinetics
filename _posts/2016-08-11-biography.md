@@ -1,4 +1,9 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
 description: >-
   Malakhi Simmons was born in Nashville, Tenn. in 1972. The son of two artists
   who sought to expose him to the world of creation: his first toys were cameras
@@ -12,18 +17,17 @@ description: >-
   continuing to work under the tutelage of his father and Moss, Malakhi
   inherited a passion for educational films and was inspired early on to create
   works rich in substance and purpose.
-dateModified: '2016-08-11T18:45:42.137Z'
-datePublished: '2016-08-11T18:45:53.599Z'
+datePublished: '2016-08-11T18:50:05.298Z'
+dateModified: '2016-08-11T18:49:50.037Z'
 title: Biography
 author: []
-publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-11-biography.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: {}
+starred: false
+url: biography/index.html
+_type: WebPage
 
 ---
 # Biography
