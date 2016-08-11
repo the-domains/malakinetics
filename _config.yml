@@ -37,6 +37,9 @@ navigation:
   - name: Along The Path
     id: efaefcc9-2d8b-4127-b47e-5653093020c4
     type: content
+  - name: Cuba
+    id: f193cfea-94ef-4763-bb7b-6188d45ee9cd
+    type: content
 favicon: null
 collections:
   - index:
