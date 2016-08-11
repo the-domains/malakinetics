@@ -1,30 +1,29 @@
 ---
+datePublished: '2016-08-11T20:43:54.930Z'
+sourcePath: _posts/2016-08-11-biography.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: >-
-  Malakhi Simmons was born in Nashville, Tenn. in 1972. The son of two artists
-  who sought to expose him to the world of creation: his first toys were cameras
-  and film sets served as his playground. His childhood was spent in Los
-  Angeles, where his cinematographer father, John Simmons, A.S.C., introduced
-  him to his first love, filmmaking. As a young boy, he was brought along with
-  his father and fellow colleague, Carlton Moss, as the two worked on projects
-  together. At the age of six, with a Star Wars action figure in one hand and a
-  Nagra in the other, Malakhi performed his first professional job as a
-  soundman. Through the years his various duties on set would grow. While
-  continuing to work under the tutelage of his father and Moss, Malakhi
-  inherited a passion for educational films and was inspired early on to create
-  works rich in substance and purpose.
-datePublished: '2016-08-11T19:08:42.432Z'
-dateModified: '2016-08-11T19:08:39.271Z'
-title: Biography
 author: []
 via: {}
-sourcePath: _posts/2016-08-11-biography.md
-authors: []
+dateModified: '2016-08-11T20:43:47.730Z'
+title: Biography
 publisher: {}
+description: >-
+  Malakhi Simmons was born in Nashville, Tenn. The son of two artists who sought
+  to expose him to the world of creation: his first toys were cameras and film
+  sets served as his playground. His childhood was spent in Los Angeles, where
+  his cinematographer father, John Simmons, A.S.C., introduced him to his first
+  love, filmmaking. As a young boy, he was brought along with his father and
+  fellow colleague, Carlton Moss, as the two worked on projects together. At the
+  age of six, with a Star Wars action figure in one hand and a Nagra in the
+  other, Malakhi performed his first professional job as a soundman. Through the
+  years his various duties on set would grow. While continuing to work under the
+  tutelage of his father and Moss, Malakhi inherited a passion for educational
+  films and was inspired early on to create works rich in substance and purpose.
+inLanguage: null
+inNav: true
 starred: false
 url: biography/index.html
 _type: WebPage
@@ -32,7 +31,7 @@ _type: WebPage
 ---
 # Biography
 
-Malakhi Simmons was born in Nashville, Tenn. in 1972\. The son of two artists who sought to expose him to the world of creation: his first toys were cameras and film sets served as his playground. His childhood was spent in Los Angeles, where his cinematographer father, [John Simmons, A.S.C.][0], introduced him to his first love, filmmaking. As a young boy, he was brought along with his father and fellow colleague, [Carlton Moss][1], as the two worked on projects together. At the age of six, with a Star Wars action figure in one hand and a Nagra in the other, Malakhi performed his first professional job as a soundman. Through the years his various duties on set would grow. While continuing to work under the tutelage of his father and Moss, Malakhi inherited a passion for educational films and was inspired early on to create works rich in substance and purpose.
+Malakhi Simmons was born in Nashville, Tenn. The son of two artists who sought to expose him to the world of creation: his first toys were cameras and film sets served as his playground. His childhood was spent in Los Angeles, where his cinematographer father, [John Simmons, A.S.C.][0], introduced him to his first love, filmmaking. As a young boy, he was brought along with his father and fellow colleague, [Carlton Moss][1], as the two worked on projects together. At the age of six, with a Star Wars action figure in one hand and a Nagra in the other, Malakhi performed his first professional job as a soundman. Through the years his various duties on set would grow. While continuing to work under the tutelage of his father and Moss, Malakhi inherited a passion for educational films and was inspired early on to create works rich in substance and purpose.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a48feb4-451c-4b7a-8768-93a343fe4144.jpg)
 
 This quest led him to pursue work on numerous film projects such as the documentary of the slave ship [Henrietta Marie][2] for which he served as the underwater camera operator while an undergraduate at Hampton University. During his matriculation at Hampton, the seemingly vast separation between his selected major, Biology Premed, and his more creative passion for filmmaking, was intriguing to those who observed him. When asked how he had chosen his major, he claimed, "Art imitates life, so I studied life!" As it turns out, Malakhi's inquisitiveness only helped to broaden his scope as an artist. Along with film, he also applied his skills to the field of journalism, becoming a columnist for [BRE (Black Radio Exclusive) magazine][3], where he developed as a photographer and writer.
