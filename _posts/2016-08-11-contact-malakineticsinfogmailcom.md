@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T22:13:35.334Z'
+datePublished: '2016-08-11T22:27:26.221Z'
 sourcePath: _posts/2016-08-11-contact-malakineticsinfogmailcom.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-11T22:13:34.205Z'
+dateModified: '2016-08-11T22:27:25.348Z'
 title: Contact
 publisher: {}
 description: 'Contact: malakinetics.info@gmail.com'
