@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T18:33:57.260Z'
+datePublished: '2016-08-11T19:07:21.419Z'
 sourcePath: _posts/2016-01-20-artist-statement.md
 inFeed: false
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-11T18:33:56.133Z'
+dateModified: '2016-08-11T19:07:20.604Z'
 title: Artist Statement
 publisher: {}
 description: >-
