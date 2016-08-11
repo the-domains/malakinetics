@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: All Images Copyright 2015 Malakhi Simmons
-datePublished: '2016-08-10T00:14:42.985Z'
-dateModified: '2016-08-10T00:14:41.034Z'
+datePublished: '2016-08-11T19:10:05.700Z'
+dateModified: '2016-08-11T19:10:05.022Z'
 title: ''
 author:
   - name: ''
