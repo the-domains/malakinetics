@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-08-10T00:12:53.301Z'
+datePublished: '2016-08-11T18:39:19.631Z'
 sourcePath: _posts/2015-11-29-biography-of-roland-malakhi-simmons.md
-inFeed: true
+inFeed: false
 authors: []
 hasPage: true
 keywords: []
@@ -9,18 +9,30 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-10T00:12:52.834Z'
-title: ''
+dateModified: '2016-08-11T18:39:18.561Z'
+title: Biography
 publisher: {}
-description: Biography of Malakhi Simmons
+description: >-
+  Malakhi Simmons was born in Nashville, Tenn. in 1972. The son of two artists
+  who sought to expose him to the world of creation: his first toys were cameras
+  and film sets served as his playground. His childhood was spent in Los
+  Angeles, where his cinematographer father, John Simmons, A.S.C., introduced
+  him to his first love, filmmaking. As a young boy, he was brought along with
+  his father and fellow colleague, Carlton Moss, as the two worked on projects
+  together. At the age of six, with a Star Wars action figure in one hand and a
+  Nagra in the other, Malakhi performed his first professional job as a
+  soundman. Through the years his various duties on set would grow. While
+  continuing to work under the tutelage of his father and Moss, Malakhi
+  inherited a passion for educational films and was inspired early on to create
+  works rich in substance and purpose.
 inLanguage: null
 inNav: true
 starred: true
 url: biography/index.html
-_type: Article
+_type: WebPage
 
 ---
-**Biography of Malakhi Simmons**
+# Biography
 
 Malakhi Simmons was born in Nashville, Tenn. in 1972\. The son of two artists who sought to expose him to the world of creation: his first toys were cameras and film sets served as his playground. His childhood was spent in Los Angeles, where his cinematographer father, [John Simmons, A.S.C.][0], introduced him to his first love, filmmaking. As a young boy, he was brought along with his father and fellow colleague, [Carlton Moss][1], as the two worked on projects together. At the age of six, with a Star Wars action figure in one hand and a Nagra in the other, Malakhi performed his first professional job as a soundman. Through the years his various duties on set would grow. While continuing to work under the tutelage of his father and Moss, Malakhi inherited a passion for educational films and was inspired early on to create works rich in substance and purpose.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4c08561c175bbbc0e6956e07fa5fe7173745bc1.jpg)
