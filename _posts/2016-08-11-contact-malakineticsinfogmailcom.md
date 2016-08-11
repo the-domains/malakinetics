@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-11T22:27:26.221Z'
+datePublished: '2016-08-11T22:28:02.332Z'
 sourcePath: _posts/2016-08-11-contact-malakineticsinfogmailcom.md
-inFeed: false
+inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-11T22:27:25.348Z'
+dateModified: '2016-08-11T22:28:00.977Z'
 title: Contact
 publisher: {}
 description: 'Contact: malakinetics.info@gmail.com'
@@ -15,7 +15,7 @@ inLanguage: null
 inNav: true
 starred: false
 url: contact-malakineticsinfogmailcom/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Contact
