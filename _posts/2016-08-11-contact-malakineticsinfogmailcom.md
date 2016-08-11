@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-11T20:22:43.878Z'
+datePublished: '2016-08-11T20:24:43.436Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-11T20:22:09.167Z'
+dateModified: '2016-08-11T20:24:42.916Z'
 title: ''
 publisher: {}
 description: 'Contact: malakinetics.info@gmail.com'
-starred: false
 sourcePath: _posts/2016-08-11-contact-malakineticsinfogmailcom.md
+starred: false
 url: contact-malakineticsinfogmailcom/index.html
 _type: Blurb
 
