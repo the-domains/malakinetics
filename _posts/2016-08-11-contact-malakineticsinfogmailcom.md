@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Contact: malakinetics.info@gmail.com'
-datePublished: '2016-08-11T22:12:05.422Z'
-dateModified: '2016-08-11T22:11:19.248Z'
+datePublished: '2016-08-11T22:12:29.633Z'
+dateModified: '2016-08-11T22:12:12.503Z'
 sourcePath: _posts/2016-08-11-contact-malakineticsinfogmailcom.md
 author: []
 via: {}
