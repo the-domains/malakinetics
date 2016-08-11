@@ -31,6 +31,9 @@ navigation:
   - name: Artist Statement
     id: 583a540f-5586-42f4-b5df-2daf1ea4f2ec
     type: content
+  - name: Biography
+    id: e544ac6b-a2d0-4fd7-a37b-e37bdb800818
+    type: content
 favicon: null
 collections:
   - index:
