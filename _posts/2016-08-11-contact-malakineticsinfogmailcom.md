@@ -1,18 +1,19 @@
 ---
-datePublished: '2016-08-11T20:24:43.436Z'
+datePublished: '2016-08-11T20:32:35.746Z'
+sourcePath: _posts/2016-08-11-contact-malakineticsinfogmailcom.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-11T20:24:42.916Z'
-title: ''
+dateModified: '2016-08-11T20:32:34.816Z'
+title: Contact
 publisher: {}
 description: 'Contact: malakinetics.info@gmail.com'
-sourcePath: _posts/2016-08-11-contact-malakineticsinfogmailcom.md
 starred: false
 url: contact-malakineticsinfogmailcom/index.html
 _type: Blurb
 
 ---
+# Contact
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a7ae632-60e0-478f-b54b-ee9c4c1be735.png)
 
 **Contact:** malakinetics.info@gmail.com
