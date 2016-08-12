@@ -49,6 +49,9 @@ navigation:
   - name: 'Meeting of Styles '
     id: 53813503-2f1c-4b17-9884-88f8a048133e
     type: content
+  - name: Contact
+    id: 1700d742-ece3-441f-9e48-0a8edac925ff
+    type: content
 favicon: null
 collections:
   - index:
